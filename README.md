@@ -1,10 +1,14 @@
-## Bienvenidos!👋
+<h1 align = "center">
+<a href="https://github.com/Acosta-Walter"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=75&duration=1400&pause=500&color=FF72FF&background=000000EE&center=true&multiline=true&width=1920&height=384&lines=Hola!;+Soy+Walter+;Bienvenidos+a+mi+Perfil+de+GitHub" alt="Typing SVG" /></a>
+</h1>
 
+<br>
 
-🧩 Soy Acosta, Walter - Técnico en Soporte y Mantenimiento de Sistemas
+  <h2>💻 Soy Técnico en Soporte y Mantenimiento de Sistemas.</h2>
+  
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-
-## 🛠️ 2. Habilidades Técnicas
+## 🛠️ 2. Habilidades Técnicas<br>
 
 Diagnóstico y reparación de hardware
 
@@ -18,13 +22,7 @@ Gestión de usuarios y permisos (Active Directory)
 
 Instalación de software y controladores
 
-Virtualización (VMware, VirtualBox, Hyper-V)
-
-Copias de seguridad y recuperación de datos
-
-Seguridad informática básica (antivirus, firewalls)
-
-Gestión de incidencias (Jira, GLPI, OTRS, etc.)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧠 3. Competencias Blandas
 
@@ -38,11 +36,13 @@ Organización y gestión del tiempo
 
 Adaptabilidad a nuevas tecnologías
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 ## 🎓 4. Formación Académica
 
 Técnico en Informática / Técnico en Sistemas (nombre del título)
 
-Cursos o certificaciones (Ej.: CCNA, CompTIA A+, ITIL, MCSA, etc.)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🧪 5. Experiencia Profesional
 
@@ -54,22 +54,24 @@ Configuración de redes domésticas o corporativas
 
 Instalación de sistemas operativos y paquetes de software
 
-Atención y resolución de tickets de soporte
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## ⚙️ 6. Herramientas y Tecnologías
 
-Sistemas operativos: Windows 10/11, Windows Server, Ubuntu
+* Sistemas operativos: Windows 10/11, Windows Server, Ubuntu
 
 Paquetería: Microsoft Office, Office 365, Google Workspace
 
 Herramientas de soporte remoto: AnyDesk, TeamViewer
 
-Gestión de redes: Cisco Packet Tracer, Mikrotik
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-Plataformas de ticketing: GLPI, Freshdesk, Zendesk
-
-## 🌍 7. Idiomas (si aplica)
+## 🌍 7. Idiomas
 
 Español: Nativo
 
-Inglés técnico: Intermedio / Avanzado
+Inglés técnico: Básico
+
+## Contacto
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:walterguillermoacosta173@gmail.com)](mailto:walterguillermoacosta173@gmail.com)
